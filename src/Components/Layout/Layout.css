@@ -1,0 +1,13 @@
+.Layout-Link {
+    background-color: white;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #282c34;
+    text-decoration: none;
+    padding: 5px
+}
+
+.hr{
+    visibility: hidden;
+}
