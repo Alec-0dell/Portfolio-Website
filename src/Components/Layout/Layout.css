@@ -1,11 +1,29 @@
-.Layout-Link {
+.Layout-Title {
+    flex: 1;
+    font-weight: bold;
+    display: inline;
     background-color: white;
-    flex-direction: column;
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: #282c34;
     text-decoration: none;
-    padding: 5px
+    padding: 10px;
+}
+
+.Layout-Link {
+    flex: 1;
+    display: inline;
+    background-color: #282c34;
+    justify-content:center;
+    font-size: calc(2vmin);
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-width: 3px;
+    border-color: gray;
+    border-radius: 8px;
+    border-style: solid;
+    margin: 10px;
 }
 
 .hr{

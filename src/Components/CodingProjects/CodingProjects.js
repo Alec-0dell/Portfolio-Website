@@ -3,9 +3,9 @@ import "./CodingProjects.css"
 function CodingProjects(){
     return(
         <div className="CodingProjects">
-            <h1 className="CodingProjects-header">
+            <header className="CodingProjects-header">
                 I Am Alec
-            </h1>
+            </header>
         </div>
 
     );

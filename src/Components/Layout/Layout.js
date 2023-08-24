@@ -6,10 +6,11 @@ function Layout() {
       <div>
         <hr className="hr"/>
         <nav>
+          <heading className="Layout-Title">Alec Odell</heading>
             <Link to="/" className="Layout-Link"> Home </Link>
-            <Link to="/about" className="Layout-Link"> About </Link>
-            <Link to="/resume" className="Layout-Link"> Resume </Link>
-            <Link to="/codingprojects" className="Layout-Link"> CodingProjects </Link>
+            <Link to="/About" className="Layout-Link"> About </Link>
+            <Link to="/Resume" className="Layout-Link"> Resume </Link>
+            <Link to="/CodingProjects" className="Layout-Link"> Coding Projects </Link>
         </nav>
         <hr className="hr"/>
         <Outlet />
