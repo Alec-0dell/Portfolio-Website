@@ -22,7 +22,7 @@ export default props => {
       <a className="menu-item" href="https://github.com/Alec-0dell">
         GitHub
       </a>
-      <a className="menu-item" href="https://github.com/Alec-0dell">
+      <a className="menu-item" href="https://www.linkedin.com/in/alec-odell/">
         LinkedIn
       </a>
     </Menu>
