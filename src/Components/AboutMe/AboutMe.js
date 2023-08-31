@@ -3,9 +3,9 @@ import "./AboutMe.css"
 function AboutMe(){
     return(
         <div className="AboutMe">
-            <h1 className="AboutMe-header">
+            <header className="AboutMe-header">
                 I Am Alec
-            </h1>
+            </header>
         </div>
 
     );

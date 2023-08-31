@@ -3,9 +3,9 @@ import "./Resume.css"
 function Resume(){
     return(
         <div className="Resume">
-            <h1 className="Resume-header">
+            <header className="Resume-header">
                 I Am Alec
-            </h1>
+            </header>
         </div>
 
     );
