@@ -28,8 +28,8 @@ function Home() {
     return (
       <div className="Home">
         <div className='Intro-Body'>
-        <header className="Home-header"> Hello, I am <br/>Alec Odell</header>
-        <p className='Intro-Para'>I am a current student at California Polytechnic Univerisity in San Luis Obispo studing to graducate in 2027 with a bachelors and masters degree in computer science. I created this website using JavaScript, HTML, CSS, and React</p>
+          <header className="Home-header"> Hello, I am <br/>Alec Odell</header>
+          <p className='Intro-Para'>I am a current student at California Polytechnic Univerisity in San Luis Obispo studing to graducate in 2027 with a bachelors and masters degree in computer science. I created this website using JavaScript, HTML, CSS, and React</p>
         </div>
         <div className='pic-container'>
           <img src={me} alt='Picture of Me' style={{width: `${(screenSize.width/2)}px`}}/>   
