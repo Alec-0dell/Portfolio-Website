@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.427fcfbf.css",
-    "main.js": "/Portfolio-Website/static/js/main.5e3b2708.js",
+    "main.js": "/Portfolio-Website/static/js/main.bf2d9e8c.js",
     "static/media/Odell-2061.png": "/Portfolio-Website/static/media/Odell-2061.5d03c3501c3b33e254ca.png",
     "index.html": "/Portfolio-Website/index.html",
     "main.427fcfbf.css.map": "/Portfolio-Website/static/css/main.427fcfbf.css.map",
-    "main.5e3b2708.js.map": "/Portfolio-Website/static/js/main.5e3b2708.js.map"
+    "main.bf2d9e8c.js.map": "/Portfolio-Website/static/js/main.bf2d9e8c.js.map"
   },
   "entrypoints": [
     "static/css/main.427fcfbf.css",
-    "static/js/main.5e3b2708.js"
+    "static/js/main.bf2d9e8c.js"
   ]
 }
