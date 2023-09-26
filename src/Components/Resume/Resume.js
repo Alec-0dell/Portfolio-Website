@@ -1,5 +1,6 @@
 import "./Resume.css"
 import ResumeImg from "./Resume.png"
+
 function Resume(){
     return(
         <div className="Resume">
