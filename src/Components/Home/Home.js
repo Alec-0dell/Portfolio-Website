@@ -1,5 +1,5 @@
 import './Home.css'
-import me from './Odell-2061.png'
+import me from './Odell-2061.jpeg'
 import React, { useState, useEffect } from 'react'
 
 function Home() {
