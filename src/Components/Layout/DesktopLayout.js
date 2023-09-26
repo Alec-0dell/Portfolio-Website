@@ -2,7 +2,7 @@ import { Outlet, Link } from "react-router-dom";
 import './Layout.css'
 import Sidebar from "./Sidebar";
 
-function Layout() {
+function DesktopLayout() {
     return (
       <view >
         <hr className="hr"/>
@@ -46,7 +46,7 @@ function Layout() {
 }
 
 
-export default Layout;
+export default DesktopLayout;
 
               /**<div className="hamburger" onClick={toggleHamburger}>
                 <Hamburger isOpen={hamburgerOpen}/>
