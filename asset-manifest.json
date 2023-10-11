@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.b8661ce7.css",
-    "main.js": "/Portfolio-Website/static/js/main.0126cea8.js",
+    "main.js": "/Portfolio-Website/static/js/main.a2f57b9f.js",
     "static/media/IMG_6785.jpeg": "/Portfolio-Website/static/media/IMG_6785.39697e42645e4f183632.jpeg",
     "static/media/IMG_6388.jpeg": "/Portfolio-Website/static/media/IMG_6388.e45e0ef5f853e5b2e82d.jpeg",
     "static/media/IMG_6327.jpeg": "/Portfolio-Website/static/media/IMG_6327.5eade36008b4700c8911.jpeg",
@@ -17,15 +17,15 @@
     "static/media/IMG_2380.jpeg": "/Portfolio-Website/static/media/IMG_2380.20ba8eb279dd0fcec69c.jpeg",
     "static/media/IMG_6006.jpeg": "/Portfolio-Website/static/media/IMG_6006.75390fc7387e259226b4.jpeg",
     "static/media/IMG_6047.jpeg": "/Portfolio-Website/static/media/IMG_6047.93daec80d192074b601b.jpeg",
-    "static/media/Resume.png": "/Portfolio-Website/static/media/Resume.09e80a3b5c72551565b4.png",
+    "static/media/Resume1.png": "/Portfolio-Website/static/media/Resume1.23a51b87dc6a4d9aa74a.png",
     "static/media/IMG_0644.jpeg": "/Portfolio-Website/static/media/IMG_0644.27e23c1ee9717a96765b.jpeg",
     "static/media/WhiteArrow.png": "/Portfolio-Website/static/media/WhiteArrow.216f4a3b36650771a1ab.png",
     "index.html": "/Portfolio-Website/index.html",
     "main.b8661ce7.css.map": "/Portfolio-Website/static/css/main.b8661ce7.css.map",
-    "main.0126cea8.js.map": "/Portfolio-Website/static/js/main.0126cea8.js.map"
+    "main.a2f57b9f.js.map": "/Portfolio-Website/static/js/main.a2f57b9f.js.map"
   },
   "entrypoints": [
     "static/css/main.b8661ce7.css",
-    "static/js/main.0126cea8.js"
+    "static/js/main.a2f57b9f.js"
   ]
 }
