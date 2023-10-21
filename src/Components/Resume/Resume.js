@@ -1,5 +1,5 @@
 import "./Resume.css"
-import ResumeImg from "./Resume1.png"
+import ResumeImg from "./Resume3.png"
 
 function Resume(){
     return(
