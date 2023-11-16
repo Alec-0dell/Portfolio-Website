@@ -22,7 +22,7 @@ function Resume(){
             </header>
             <hr className="Resume-hr"></hr>
             <button onClick={() => {
-                downloadFile("http://localhost:3000/Portfolio-Website/AlecOdellResume2023.pdf")
+                downloadFile("http://alec-0dell.github.io/Portfolio-Website/AlecOdellResume2023.pdf")
             }} className="Resume-Button" href="React AlecOdellResume2023.pdf" download="AlecOdellResume2023.pdf">Download Resume</button>
             <hr className="Resume-hr"></hr>
             <img className="Resume-IMG" src={ResumeImg} alt="Alec Odell's Resume"></img>
